@@ -28,7 +28,7 @@
         </div>
     
         <div class="service">
-            <a href="cirugia.html">
+            <a href="cirugia.php">
             <img src="../src/cono.png" alt="Cirugía">
         </a>
             <p>Cirugía</p>
@@ -38,12 +38,25 @@
             <p>Peluquería</p>
         </div>
     </div>
-
-    <div class="contact">
-        <h2>Contáctanos</h2>
-        <p>Teléfono: +123 456 7890</p>
-        <p>Email: Veterinariagermon@gmail.com</p>
-    </div>
+    <footer style="background-color: #f8f9fa; padding: 20px; text-align: center;">
+        <p>&copy; 2024 veterinaria-Germon <div Veterinaria Germon=""></div>. Todos los derechos reservados.</p>
+        <div style="margin: 10px 0;">
+            <a href="https://www.facebook.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://www.instagram.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://www.youtube.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733646.png" alt="YouTube" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://twitter.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" style="width: 30px; height: 30px;">
+            </a>
+        </div>
+        <p>Teléfono: (123) 456-7890 | Correo: info@veterinaria-Germon.com</p>
+    </footer>
+             
 
     <script src="script.js"></script>
 </body>

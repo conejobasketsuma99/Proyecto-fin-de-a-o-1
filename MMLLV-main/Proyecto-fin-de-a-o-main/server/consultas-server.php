@@ -1,5 +1,5 @@
 <?php
-include('../modelo/consulta.php')
+include('../modelo/consulta.php');
 
 $nombre = $_POST['name'];
 $mail = $_POST['mail'];

@@ -40,24 +40,25 @@
     </main>
 
     <!-- Footer con enlaces y redes sociales -->
-    <footer>
-        <nav>
-            <ul>
-                <li><a href="#consulta" class="footer-link">Consulta</a></li>
-                <li><a href="#">Política de Privacidad</a></li>
-                <li><a href="#">Términos de Servicio</a></li>
-                <li><a href="#">Contacto</a></li>
-            </ul>
-        </nav>
-        <div class="social-media">
-            <a href="https://facebook.com/tu-veterinaria" target="_blank" class="social-icon"><i class="fab fa-facebook-f"></i></a>
-            <a href="https://instagram.com/tu-veterinaria" target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a>
-            <a href="https://youtube.com/tu-veterinaria" target="_blank" class="social-icon"><i class="fab fa-youtube"></i></a>
-            <a href="https://twitter.com/tu-veterinaria" target="_blank" class="social-icon"><i class="fab fa-twitter"></i></a>
+    <footer style="background-color: #f8f9fa; padding: 20px; text-align: center;">
+        <p>&copy; 2024 veterinaria-Germon <div Veterinaria Germon=""></div>. Todos los derechos reservados.</p>
+        <div style="margin: 10px 0;">
+            <a href="https://www.facebook.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://www.instagram.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://www.youtube.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733646.png" alt="YouTube" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://twitter.com/tu-veterinaria" target="_blank" style="margin: 0 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" style="width: 30px; height: 30px;">
+            </a>
         </div>
-        <p>&copy; 2024 Tu Empresa. Todos los derechos reservados.</p>
+        <p>Teléfono: (123) 456-7890 | Correo: info@veterinaria-Germon.com</p>
     </footer>
-
+             
 </body>
 </html>
 
